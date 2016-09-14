@@ -1,4 +1,4 @@
 ---
 layout: post
-title: "Welcome to my second post."
+title: "Welcome to my awesome post."
 ---
